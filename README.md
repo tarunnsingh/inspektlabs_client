@@ -1,4 +1,4 @@
-## Assignment Inspekt Labs
+## Assignment Inspektlabs
 ### Client Side
 
 ## Before running this, run the [server](https://github.com/tarunnsingh/inspektlabs_server)
